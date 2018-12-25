@@ -13,6 +13,37 @@
 		430BD00E21D2950A005492A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 430BD00D21D2950A005492A8 /* Assets.xcassets */; };
 		430BD01121D2950A005492A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 430BD00F21D2950A005492A8 /* LaunchScreen.storyboard */; };
 		430BD01421D2950A005492A8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD01321D2950A005492A8 /* main.m */; };
+		430BD0BE21D29A8F005492A8 /* AAJSFiles.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 430BD07D21D29A8F005492A8 /* AAJSFiles.bundle */; };
+		430BD0BF21D29A8F005492A8 /* AAAreaspline.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD08021D29A8F005492A8 /* AAAreaspline.m */; };
+		430BD0C021D29A8F005492A8 /* AALabels.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD08221D29A8F005492A8 /* AALabels.m */; };
+		430BD0C121D29A8F005492A8 /* AASeries.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD08521D29A8F005492A8 /* AASeries.m */; };
+		430BD0C221D29A8F005492A8 /* AAXAxis.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD08621D29A8F005492A8 /* AAXAxis.m */; };
+		430BD0C321D29A8F005492A8 /* AAPlotOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD08721D29A8F005492A8 /* AAPlotOptions.m */; };
+		430BD0C421D29A8F005492A8 /* AADataLabels.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD08821D29A8F005492A8 /* AADataLabels.m */; };
+		430BD0C521D29A8F005492A8 /* AAPlotBandsElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD08921D29A8F005492A8 /* AAPlotBandsElement.m */; };
+		430BD0C621D29A8F005492A8 /* AALine.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD08A21D29A8F005492A8 /* AALine.m */; };
+		430BD0C721D29A8F005492A8 /* AATooltip.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD08D21D29A8F005492A8 /* AATooltip.m */; };
+		430BD0C821D29A8F005492A8 /* AASubtitle.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD08F21D29A8F005492A8 /* AASubtitle.m */; };
+		430BD0C921D29A8F005492A8 /* AAYAxis.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD09021D29A8F005492A8 /* AAYAxis.m */; };
+		430BD0CA21D29A8F005492A8 /* AACrosshair.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD09121D29A8F005492A8 /* AACrosshair.m */; };
+		430BD0CB21D29A8F005492A8 /* AAColumn.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD09621D29A8F005492A8 /* AAColumn.m */; };
+		430BD0CC21D29A8F005492A8 /* AAPlotLinesElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD09721D29A8F005492A8 /* AAPlotLinesElement.m */; };
+		430BD0CD21D29A8F005492A8 /* AAStyle.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD09A21D29A8F005492A8 /* AAStyle.m */; };
+		430BD0CE21D29A8F005492A8 /* AABar.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD09B21D29A8F005492A8 /* AABar.m */; };
+		430BD0CF21D29A8F005492A8 /* AATitle.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD09C21D29A8F005492A8 /* AATitle.m */; };
+		430BD0D021D29A8F005492A8 /* AAArea.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD09F21D29A8F005492A8 /* AAArea.m */; };
+		430BD0D121D29A8F005492A8 /* AAAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD0A021D29A8F005492A8 /* AAAnimation.m */; };
+		430BD0D221D29A8F005492A8 /* AALegend.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD0A121D29A8F005492A8 /* AALegend.m */; };
+		430BD0D321D29A8F005492A8 /* AAMarker.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD0A321D29A8F005492A8 /* AAMarker.m */; };
+		430BD0D421D29A8F005492A8 /* AASpline.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD0A821D29A8F005492A8 /* AASpline.m */; };
+		430BD0D521D29A8F005492A8 /* AAItemStyle.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD0A921D29A8F005492A8 /* AAItemStyle.m */; };
+		430BD0D621D29A8F005492A8 /* AAPie.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD0AA21D29A8F005492A8 /* AAPie.m */; };
+		430BD0D721D29A8F005492A8 /* AAChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD0B021D29A8F005492A8 /* AAChart.m */; };
+		430BD0D821D29A8F005492A8 /* AAChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD0B321D29A8F005492A8 /* AAChartView.m */; };
+		430BD0D921D29A8F005492A8 /* AAChartModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD0B721D29A8F005492A8 /* AAChartModel.m */; };
+		430BD0DA21D29A8F005492A8 /* AAOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD0B921D29A8F005492A8 /* AAOptions.m */; };
+		430BD0DB21D29A8F005492A8 /* AASeriesElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD0BA21D29A8F005492A8 /* AASeriesElement.m */; };
+		430BD0DC21D29A8F005492A8 /* AAGradientColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 430BD0BC21D29A8F005492A8 /* AAGradientColor.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +57,70 @@
 		430BD01021D2950A005492A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		430BD01221D2950A005492A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		430BD01321D2950A005492A8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		430BD07B21D29998005492A8 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		430BD07D21D29A8F005492A8 /* AAJSFiles.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = AAJSFiles.bundle; sourceTree = "<group>"; };
+		430BD07F21D29A8F005492A8 /* AAArea.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAArea.h; sourceTree = "<group>"; };
+		430BD08021D29A8F005492A8 /* AAAreaspline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAAreaspline.m; sourceTree = "<group>"; };
+		430BD08121D29A8F005492A8 /* AATitle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AATitle.h; sourceTree = "<group>"; };
+		430BD08221D29A8F005492A8 /* AALabels.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AALabels.m; sourceTree = "<group>"; };
+		430BD08321D29A8F005492A8 /* AAStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAStyle.h; sourceTree = "<group>"; };
+		430BD08421D29A8F005492A8 /* AABar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AABar.h; sourceTree = "<group>"; };
+		430BD08521D29A8F005492A8 /* AASeries.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AASeries.m; sourceTree = "<group>"; };
+		430BD08621D29A8F005492A8 /* AAXAxis.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAXAxis.m; sourceTree = "<group>"; };
+		430BD08721D29A8F005492A8 /* AAPlotOptions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAPlotOptions.m; sourceTree = "<group>"; };
+		430BD08821D29A8F005492A8 /* AADataLabels.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AADataLabels.m; sourceTree = "<group>"; };
+		430BD08921D29A8F005492A8 /* AAPlotBandsElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAPlotBandsElement.m; sourceTree = "<group>"; };
+		430BD08A21D29A8F005492A8 /* AALine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AALine.m; sourceTree = "<group>"; };
+		430BD08B21D29A8F005492A8 /* AAMarker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAMarker.h; sourceTree = "<group>"; };
+		430BD08C21D29A8F005492A8 /* AALegend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AALegend.h; sourceTree = "<group>"; };
+		430BD08D21D29A8F005492A8 /* AATooltip.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AATooltip.m; sourceTree = "<group>"; };
+		430BD08E21D29A8F005492A8 /* AAAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAAnimation.h; sourceTree = "<group>"; };
+		430BD08F21D29A8F005492A8 /* AASubtitle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AASubtitle.m; sourceTree = "<group>"; };
+		430BD09021D29A8F005492A8 /* AAYAxis.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAYAxis.m; sourceTree = "<group>"; };
+		430BD09121D29A8F005492A8 /* AACrosshair.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AACrosshair.m; sourceTree = "<group>"; };
+		430BD09221D29A8F005492A8 /* AAPie.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAPie.h; sourceTree = "<group>"; };
+		430BD09321D29A8F005492A8 /* AAItemStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAItemStyle.h; sourceTree = "<group>"; };
+		430BD09421D29A8F005492A8 /* AASpline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AASpline.h; sourceTree = "<group>"; };
+		430BD09521D29A8F005492A8 /* AAChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAChart.h; sourceTree = "<group>"; };
+		430BD09621D29A8F005492A8 /* AAColumn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAColumn.m; sourceTree = "<group>"; };
+		430BD09721D29A8F005492A8 /* AAPlotLinesElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAPlotLinesElement.m; sourceTree = "<group>"; };
+		430BD09821D29A8F005492A8 /* AAXAxis.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAXAxis.h; sourceTree = "<group>"; };
+		430BD09921D29A8F005492A8 /* AASeries.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AASeries.h; sourceTree = "<group>"; };
+		430BD09A21D29A8F005492A8 /* AAStyle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAStyle.m; sourceTree = "<group>"; };
+		430BD09B21D29A8F005492A8 /* AABar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AABar.m; sourceTree = "<group>"; };
+		430BD09C21D29A8F005492A8 /* AATitle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AATitle.m; sourceTree = "<group>"; };
+		430BD09D21D29A8F005492A8 /* AALabels.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AALabels.h; sourceTree = "<group>"; };
+		430BD09E21D29A8F005492A8 /* AAAreaspline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAAreaspline.h; sourceTree = "<group>"; };
+		430BD09F21D29A8F005492A8 /* AAArea.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAArea.m; sourceTree = "<group>"; };
+		430BD0A021D29A8F005492A8 /* AAAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAAnimation.m; sourceTree = "<group>"; };
+		430BD0A121D29A8F005492A8 /* AALegend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AALegend.m; sourceTree = "<group>"; };
+		430BD0A221D29A8F005492A8 /* AATooltip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AATooltip.h; sourceTree = "<group>"; };
+		430BD0A321D29A8F005492A8 /* AAMarker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAMarker.m; sourceTree = "<group>"; };
+		430BD0A421D29A8F005492A8 /* AALine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AALine.h; sourceTree = "<group>"; };
+		430BD0A521D29A8F005492A8 /* AAPlotBandsElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAPlotBandsElement.h; sourceTree = "<group>"; };
+		430BD0A621D29A8F005492A8 /* AADataLabels.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AADataLabels.h; sourceTree = "<group>"; };
+		430BD0A721D29A8F005492A8 /* AAPlotOptions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAPlotOptions.h; sourceTree = "<group>"; };
+		430BD0A821D29A8F005492A8 /* AASpline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AASpline.m; sourceTree = "<group>"; };
+		430BD0A921D29A8F005492A8 /* AAItemStyle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAItemStyle.m; sourceTree = "<group>"; };
+		430BD0AA21D29A8F005492A8 /* AAPie.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAPie.m; sourceTree = "<group>"; };
+		430BD0AB21D29A8F005492A8 /* AACrosshair.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AACrosshair.h; sourceTree = "<group>"; };
+		430BD0AC21D29A8F005492A8 /* AAYAxis.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAYAxis.h; sourceTree = "<group>"; };
+		430BD0AD21D29A8F005492A8 /* AASubtitle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AASubtitle.h; sourceTree = "<group>"; };
+		430BD0AE21D29A8F005492A8 /* AAPlotLinesElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAPlotLinesElement.h; sourceTree = "<group>"; };
+		430BD0AF21D29A8F005492A8 /* AAColumn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAColumn.h; sourceTree = "<group>"; };
+		430BD0B021D29A8F005492A8 /* AAChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAChart.m; sourceTree = "<group>"; };
+		430BD0B221D29A8F005492A8 /* AAOptions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAOptions.h; sourceTree = "<group>"; };
+		430BD0B321D29A8F005492A8 /* AAChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAChartView.m; sourceTree = "<group>"; };
+		430BD0B421D29A8F005492A8 /* AAGlobalMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAGlobalMacro.h; sourceTree = "<group>"; };
+		430BD0B521D29A8F005492A8 /* AASeriesElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AASeriesElement.h; sourceTree = "<group>"; };
+		430BD0B621D29A8F005492A8 /* AAGradientColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAGradientColor.h; sourceTree = "<group>"; };
+		430BD0B721D29A8F005492A8 /* AAChartModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAChartModel.m; sourceTree = "<group>"; };
+		430BD0B821D29A8F005492A8 /* AAChartKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAChartKit.h; sourceTree = "<group>"; };
+		430BD0B921D29A8F005492A8 /* AAOptions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAOptions.m; sourceTree = "<group>"; };
+		430BD0BA21D29A8F005492A8 /* AASeriesElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AASeriesElement.m; sourceTree = "<group>"; };
+		430BD0BB21D29A8F005492A8 /* AAChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAChartView.h; sourceTree = "<group>"; };
+		430BD0BC21D29A8F005492A8 /* AAGradientColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAGradientColor.m; sourceTree = "<group>"; };
+		430BD0BD21D29A8F005492A8 /* AAChartModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAChartModel.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +153,12 @@
 		430BD00321D29509005492A8 /* MixWeatherLine */ = {
 			isa = PBXGroup;
 			children = (
+				430BD07C21D29A8F005492A8 /* AAChartKitLib */,
 				430BD00421D29509005492A8 /* AppDelegate.h */,
 				430BD00521D29509005492A8 /* AppDelegate.m */,
 				430BD00721D29509005492A8 /* ViewController.h */,
 				430BD00821D29509005492A8 /* ViewController.m */,
+				430BD07B21D29998005492A8 /* PrefixHeader.pch */,
 				430BD00A21D29509005492A8 /* Main.storyboard */,
 				430BD00D21D2950A005492A8 /* Assets.xcassets */,
 				430BD00F21D2950A005492A8 /* LaunchScreen.storyboard */,
@@ -69,6 +166,92 @@
 				430BD01321D2950A005492A8 /* main.m */,
 			);
 			path = MixWeatherLine;
+			sourceTree = "<group>";
+		};
+		430BD07C21D29A8F005492A8 /* AAChartKitLib */ = {
+			isa = PBXGroup;
+			children = (
+				430BD07D21D29A8F005492A8 /* AAJSFiles.bundle */,
+				430BD07E21D29A8F005492A8 /* AAOptionsModel */,
+				430BD0B121D29A8F005492A8 /* AAChartConfiger */,
+			);
+			path = AAChartKitLib;
+			sourceTree = "<group>";
+		};
+		430BD07E21D29A8F005492A8 /* AAOptionsModel */ = {
+			isa = PBXGroup;
+			children = (
+				430BD07F21D29A8F005492A8 /* AAArea.h */,
+				430BD08021D29A8F005492A8 /* AAAreaspline.m */,
+				430BD08121D29A8F005492A8 /* AATitle.h */,
+				430BD08221D29A8F005492A8 /* AALabels.m */,
+				430BD08321D29A8F005492A8 /* AAStyle.h */,
+				430BD08421D29A8F005492A8 /* AABar.h */,
+				430BD08521D29A8F005492A8 /* AASeries.m */,
+				430BD08621D29A8F005492A8 /* AAXAxis.m */,
+				430BD08721D29A8F005492A8 /* AAPlotOptions.m */,
+				430BD08821D29A8F005492A8 /* AADataLabels.m */,
+				430BD08921D29A8F005492A8 /* AAPlotBandsElement.m */,
+				430BD08A21D29A8F005492A8 /* AALine.m */,
+				430BD08B21D29A8F005492A8 /* AAMarker.h */,
+				430BD08C21D29A8F005492A8 /* AALegend.h */,
+				430BD08D21D29A8F005492A8 /* AATooltip.m */,
+				430BD08E21D29A8F005492A8 /* AAAnimation.h */,
+				430BD08F21D29A8F005492A8 /* AASubtitle.m */,
+				430BD09021D29A8F005492A8 /* AAYAxis.m */,
+				430BD09121D29A8F005492A8 /* AACrosshair.m */,
+				430BD09221D29A8F005492A8 /* AAPie.h */,
+				430BD09321D29A8F005492A8 /* AAItemStyle.h */,
+				430BD09421D29A8F005492A8 /* AASpline.h */,
+				430BD09521D29A8F005492A8 /* AAChart.h */,
+				430BD09621D29A8F005492A8 /* AAColumn.m */,
+				430BD09721D29A8F005492A8 /* AAPlotLinesElement.m */,
+				430BD09821D29A8F005492A8 /* AAXAxis.h */,
+				430BD09921D29A8F005492A8 /* AASeries.h */,
+				430BD09A21D29A8F005492A8 /* AAStyle.m */,
+				430BD09B21D29A8F005492A8 /* AABar.m */,
+				430BD09C21D29A8F005492A8 /* AATitle.m */,
+				430BD09D21D29A8F005492A8 /* AALabels.h */,
+				430BD09E21D29A8F005492A8 /* AAAreaspline.h */,
+				430BD09F21D29A8F005492A8 /* AAArea.m */,
+				430BD0A021D29A8F005492A8 /* AAAnimation.m */,
+				430BD0A121D29A8F005492A8 /* AALegend.m */,
+				430BD0A221D29A8F005492A8 /* AATooltip.h */,
+				430BD0A321D29A8F005492A8 /* AAMarker.m */,
+				430BD0A421D29A8F005492A8 /* AALine.h */,
+				430BD0A521D29A8F005492A8 /* AAPlotBandsElement.h */,
+				430BD0A621D29A8F005492A8 /* AADataLabels.h */,
+				430BD0A721D29A8F005492A8 /* AAPlotOptions.h */,
+				430BD0A821D29A8F005492A8 /* AASpline.m */,
+				430BD0A921D29A8F005492A8 /* AAItemStyle.m */,
+				430BD0AA21D29A8F005492A8 /* AAPie.m */,
+				430BD0AB21D29A8F005492A8 /* AACrosshair.h */,
+				430BD0AC21D29A8F005492A8 /* AAYAxis.h */,
+				430BD0AD21D29A8F005492A8 /* AASubtitle.h */,
+				430BD0AE21D29A8F005492A8 /* AAPlotLinesElement.h */,
+				430BD0AF21D29A8F005492A8 /* AAColumn.h */,
+				430BD0B021D29A8F005492A8 /* AAChart.m */,
+			);
+			path = AAOptionsModel;
+			sourceTree = "<group>";
+		};
+		430BD0B121D29A8F005492A8 /* AAChartConfiger */ = {
+			isa = PBXGroup;
+			children = (
+				430BD0B221D29A8F005492A8 /* AAOptions.h */,
+				430BD0B321D29A8F005492A8 /* AAChartView.m */,
+				430BD0B421D29A8F005492A8 /* AAGlobalMacro.h */,
+				430BD0B521D29A8F005492A8 /* AASeriesElement.h */,
+				430BD0B621D29A8F005492A8 /* AAGradientColor.h */,
+				430BD0B721D29A8F005492A8 /* AAChartModel.m */,
+				430BD0B821D29A8F005492A8 /* AAChartKit.h */,
+				430BD0B921D29A8F005492A8 /* AAOptions.m */,
+				430BD0BA21D29A8F005492A8 /* AASeriesElement.m */,
+				430BD0BB21D29A8F005492A8 /* AAChartView.h */,
+				430BD0BC21D29A8F005492A8 /* AAGradientColor.m */,
+				430BD0BD21D29A8F005492A8 /* AAChartModel.h */,
+			);
+			path = AAChartConfiger;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -130,6 +313,7 @@
 			files = (
 				430BD01121D2950A005492A8 /* LaunchScreen.storyboard in Resources */,
 				430BD00E21D2950A005492A8 /* Assets.xcassets in Resources */,
+				430BD0BE21D29A8F005492A8 /* AAJSFiles.bundle in Resources */,
 				430BD00C21D29509005492A8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -141,9 +325,39 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				430BD0D921D29A8F005492A8 /* AAChartModel.m in Sources */,
+				430BD0D821D29A8F005492A8 /* AAChartView.m in Sources */,
+				430BD0D721D29A8F005492A8 /* AAChart.m in Sources */,
+				430BD0DC21D29A8F005492A8 /* AAGradientColor.m in Sources */,
+				430BD0DB21D29A8F005492A8 /* AASeriesElement.m in Sources */,
+				430BD0D021D29A8F005492A8 /* AAArea.m in Sources */,
+				430BD0C621D29A8F005492A8 /* AALine.m in Sources */,
+				430BD0CC21D29A8F005492A8 /* AAPlotLinesElement.m in Sources */,
+				430BD0D421D29A8F005492A8 /* AASpline.m in Sources */,
+				430BD0C521D29A8F005492A8 /* AAPlotBandsElement.m in Sources */,
+				430BD0C221D29A8F005492A8 /* AAXAxis.m in Sources */,
+				430BD0CE21D29A8F005492A8 /* AABar.m in Sources */,
 				430BD00921D29509005492A8 /* ViewController.m in Sources */,
 				430BD01421D2950A005492A8 /* main.m in Sources */,
+				430BD0CB21D29A8F005492A8 /* AAColumn.m in Sources */,
+				430BD0D321D29A8F005492A8 /* AAMarker.m in Sources */,
+				430BD0CF21D29A8F005492A8 /* AATitle.m in Sources */,
+				430BD0D621D29A8F005492A8 /* AAPie.m in Sources */,
+				430BD0D521D29A8F005492A8 /* AAItemStyle.m in Sources */,
+				430BD0CD21D29A8F005492A8 /* AAStyle.m in Sources */,
 				430BD00621D29509005492A8 /* AppDelegate.m in Sources */,
+				430BD0C021D29A8F005492A8 /* AALabels.m in Sources */,
+				430BD0C821D29A8F005492A8 /* AASubtitle.m in Sources */,
+				430BD0C121D29A8F005492A8 /* AASeries.m in Sources */,
+				430BD0CA21D29A8F005492A8 /* AACrosshair.m in Sources */,
+				430BD0C421D29A8F005492A8 /* AADataLabels.m in Sources */,
+				430BD0BF21D29A8F005492A8 /* AAAreaspline.m in Sources */,
+				430BD0DA21D29A8F005492A8 /* AAOptions.m in Sources */,
+				430BD0C321D29A8F005492A8 /* AAPlotOptions.m in Sources */,
+				430BD0C921D29A8F005492A8 /* AAYAxis.m in Sources */,
+				430BD0D121D29A8F005492A8 /* AAAnimation.m in Sources */,
+				430BD0C721D29A8F005492A8 /* AATooltip.m in Sources */,
+				430BD0D221D29A8F005492A8 /* AALegend.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,7 +500,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 96ZSRJUL7X;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/MixWeatherLine/PrefixHeader.pch";
 				INFOPLIST_FILE = MixWeatherLine/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -302,7 +520,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 96ZSRJUL7X;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/MixWeatherLine/PrefixHeader.pch";
 				INFOPLIST_FILE = MixWeatherLine/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
